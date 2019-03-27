@@ -1,0 +1,10 @@
+nopcommerce_V1_maven\testCases\TC_LoginTest_001.class
+nopcommerce_V1_maven\pageObjects\AddcustomerPage.class
+nopcommerce_V1_maven\testCases\TC_LoginDDT_002.class
+nopcommerce_V1_maven\utilities\XLUtiles.class
+nopcommerce_V1_maven\testCases\BaseClass.class
+nopcommerce_V1_maven\pageObjects\LoginPage.class
+nopcommerce_V1_maven\utilities\ReadConfig.class
+nopcommerce_V1_maven\utilities\Reporting.class
+nopcommerce_V1_maven\utilities\Xls_Reader.class
+nopcommerce_V1_maven\testCases\TC_AddCustomerTest_003.class

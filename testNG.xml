@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="nopCommerce Suite">
+<listeners>
+			<listener class-name="nopcommerce_V1_maven.utilities.Reporting"/>
+	</listeners>
+	
+<test name="nopCommerce Test1" thread-count="5">
+		<parameter name="browser" value="firefox" />
+  
+   <classes> 
+   			<!--packagename.classname   -->
+  <!--  <class name="nopcommerce_V1_maven.testCases.TC_LoginTest_001"/>  
+    <class name="nopcommerce_V1_maven.testCases.TC_LoginDDT_002"/>  -->
+     <class name="nopcommerce_V1_maven.testCases.TC_AddCustomerTest_003"/> 
+    </classes>
+  </test> <!-- Test --> 
+  
+  <!-- <test name="nopCommerce Test2" thread-count="5">
+		<parameter name="browser" value="ie" />
+		<classes>
+			<class name="com.nopcommerce.testCases.TC_LoginTest_001" /> 
+		</classes>
+	</test> 
+	
+	<test name="nopCommerce Test3" thread-count="5">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.nopcommerce.testCases.TC_LoginTest_001" /> 
+		</classes>
+	</test> --> <!-- Test --> 
+	
+
+</suite> <!-- Suit --> 

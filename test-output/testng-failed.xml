@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [nopCommerce Suite]">
+  <listeners>
+    <listener class-name="nopcommerce_V1_maven.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="nopCommerce Test1(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="nopcommerce_V1_maven.testCases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- nopcommerce_V1_maven.testCases.TC_AddCustomerTest_003 -->
+    </classes>
+  </test> <!-- nopCommerce Test1(failed) -->
+</suite> <!-- Failed suite [nopCommerce Suite] -->
