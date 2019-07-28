@@ -1,4 +1,4 @@
- package nopcommerce_V1_maven.testCases;
+   package nopcommerce_V1_maven.testCases;
 
 import java.io.IOException;
 

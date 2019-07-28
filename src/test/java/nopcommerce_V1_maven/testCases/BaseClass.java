@@ -35,7 +35,7 @@ public class BaseClass
 	public static Logger logger;
 	
 	@BeforeClass
-	@Parameters("browser") // value chrome into br
+	@Parameters("browser") // browser value into br
 	public void setup(String br)
 	{
 		logger = Logger.getLogger("eCommerce"); // Added logger 
@@ -77,12 +77,14 @@ public class BaseClass
 		FileUtils.copyFile(source, target);
 		System.out.println("Screenshot taken");
 	}
-	public static String randomestring() {
+	public static String randomestring() 
+	{
 		String generatedString1 = RandomStringUtils.randomAlphabetic(5);
 		return (generatedString1);
 	}
 
-	public static String randomeNum() {
+	public static String randomeNum() 
+	{
 		String generatedString2 = RandomStringUtils.randomNumeric(4);
 		return (generatedString2);
 	}

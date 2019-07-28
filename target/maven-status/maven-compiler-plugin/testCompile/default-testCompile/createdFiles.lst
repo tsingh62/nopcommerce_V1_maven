@@ -1,6 +1,7 @@
 nopcommerce_V1_maven\testCases\TC_LoginTest_001.class
 nopcommerce_V1_maven\pageObjects\AddcustomerPage.class
 nopcommerce_V1_maven\testCases\TC_LoginDDT_002.class
+nopcommerce_V1_maven\testCases\TC_SearchCustomer_05.class
 nopcommerce_V1_maven\utilities\XLUtiles.class
 nopcommerce_V1_maven\testCases\BaseClass.class
 nopcommerce_V1_maven\pageObjects\LoginPage.class

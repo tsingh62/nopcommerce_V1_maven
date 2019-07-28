@@ -3,12 +3,16 @@ package nopcommerce_V1_maven.testCases;
 import java.io.IOException;
 
 
+
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+
+
 import nopcommerce_V1_maven.pageObjects.LoginPage;
 import nopcommerce_V1_maven.utilities.XLUtiles;
+
 @Test(dataProvider="LoginData")
 public class TC_LoginDDT_002 extends BaseClass
 {
@@ -18,6 +22,7 @@ public class TC_LoginDDT_002 extends BaseClass
 	logger.info("providing user name");
 	
 	LoginPage lp = new LoginPage(driver);
+	
 	lp.setUserName(user);
 	
 	logger.info("providing password");
@@ -42,6 +47,7 @@ public class TC_LoginDDT_002 extends BaseClass
 			Assert.assertTrue(false);
 	} 
 	
+	
 }
 // Creating a data provider method
 	// data provider method will always provide a string type of data
@@ -65,6 +71,49 @@ public class TC_LoginDDT_002 extends BaseClass
 	 }
 	 // returning the two dimensional array
 	 return logindata;
+	 /*
+	// Data provider will always return String type of data
+		// Two dimensional string type array
+		@DataProvider(name="LoginData")
+		public String [][] getData() throws IOException
+		{
+			
+			String path=System.getProperty("user.dir")+"/src/test/java/com/testData/LoginData.xlsx";
+		
+			//Read data 
+			//no of rows  in the XL data sheet
+			int rownum=XLUtils.getRowCount(path, "Sheet1");
+			// no of columns in the XL data sheet
+			int colcount=XLUtils.getCellCount(path,"Sheet1",1); // At-least specify one row to count the no of cols
+																		// present inside the row
+			// Create a two dimensional string array
+			// Should be the same size of that of the XL sheet
+			String logindata[][]=new String[rownum][colcount]; // rownum and colcount give the exact no of values in the XL sheet
+															// that is passed in logindata[][] // now the data size and array size both are equal
+			// Read data and store it in a 2 dimensional array
+			
+			// Starting from 1 since index 0 is the header part
+			for(int i=1;i<=rownum;i++)
+			{
+				// increment the columns
+				for(int j=0;j<colcount;j++)// Since the col values start from index 0
+				{
+					// Extract data from XL
+					// Since the data starts from index 1 for rows and 0 for col in XL sheet
+					// We need to store the same value in the array
+					// so the value index value for row will be i-1 since the array will 
+					// store the data from and it will not be taking the header values of the XL sheet
+					// for col its same as, the col reads from index 0 and saves it in the array in index 0
+					
+					// Get data from Xl and store in a 2 dim array
+					logindata[i-1][j]=XLUtils.getCellData(path,"Sheet1", i,j);// i is row and j is col
+					
+				}
+				
+			}
+			return logindata; // returning 2 dim arrary
+		} */
+
  }
 
 }

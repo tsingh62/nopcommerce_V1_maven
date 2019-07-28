@@ -5,14 +5,14 @@
     <listener class-name="nopcommerce_V1_maven.utilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="nopCommerce Test1(failed)">
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="nopcommerce_V1_maven.testCases.TC_AddCustomerTest_003">
+      <class name="nopcommerce_V1_maven.testCases.TC_Catalogue_Test">
         <methods>
-          <include name="addNewCustomer"/>
           <include name="setup"/>
+          <include name="catalogueProductPage"/>
         </methods>
-      </class> <!-- nopcommerce_V1_maven.testCases.TC_AddCustomerTest_003 -->
+      </class> <!-- nopcommerce_V1_maven.testCases.TC_Catalogue_Test -->
     </classes>
   </test> <!-- nopCommerce Test1(failed) -->
 </suite> <!-- Failed suite [nopCommerce Suite] -->

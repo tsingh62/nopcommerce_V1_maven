@@ -6,13 +6,15 @@
 	</listeners>
 	
 <test name="nopCommerce Test1" thread-count="5">
-		<parameter name="browser" value="firefox" />
+		<parameter name="browser" value="chrome" />
   
    <classes> 
    			<!--packagename.classname   -->
   <!--  <class name="nopcommerce_V1_maven.testCases.TC_LoginTest_001"/>  
     <class name="nopcommerce_V1_maven.testCases.TC_LoginDDT_002"/>  -->
-     <class name="nopcommerce_V1_maven.testCases.TC_AddCustomerTest_003"/> 
+     <!--  <class name="nopcommerce_V1_maven.testCases.TC_AddCustomerTest_003"/>   -->
+      <class name="nopcommerce_V1_maven.testCases.TC_Catalogue_Test"/>
+     
     </classes>
   </test> <!-- Test --> 
   

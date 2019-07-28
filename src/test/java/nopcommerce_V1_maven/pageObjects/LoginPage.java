@@ -15,6 +15,8 @@ public class LoginPage
 		ldriver=rdriver;
 		PageFactory.initElements(rdriver, this);
 	}
+	
+	
 		@FindBy(id="Email")
 		@CacheLookup
 		WebElement txtEmail;

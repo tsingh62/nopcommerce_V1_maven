@@ -159,3 +159,312 @@
 2019-03-20 19:22:06,335 [main] INFO eCommerce - providing customer details....
 2019-03-20 19:22:23,399 [main] INFO eCommerce - validation started....
 2019-03-20 19:22:24,333 [main] INFO eCommerce - test case passed....
+2019-03-28 15:24:06,033 [main] DEBUG eCommerce - Debug logging has started 
+2019-03-28 15:24:10,701 [main] INFO eCommerce - User name is provided
+2019-03-28 15:24:10,762 [main] INFO eCommerce - password is provided
+2019-03-28 15:24:13,366 [main] INFO eCommerce - providing customer details....
+2019-03-28 15:24:25,088 [main] INFO eCommerce - validation started....
+2019-03-28 15:24:25,682 [main] INFO eCommerce - test case passed....
+2019-03-30 13:35:33,723 [main] DEBUG eCommerce - Debug logging has started 
+2019-03-30 13:35:41,219 [main] INFO eCommerce - User name is provided
+2019-03-30 13:35:41,252 [main] INFO eCommerce - password is provided
+2019-03-30 13:35:47,528 [main] INFO eCommerce - providing customer details....
+2019-03-30 13:36:02,572 [main] INFO eCommerce - validation started....
+2019-03-30 13:36:03,305 [main] INFO eCommerce - test case passed....
+2019-03-31 16:50:07,335 [main] DEBUG eCommerce - Debug logging has started 
+2019-03-31 16:50:13,506 [main] INFO eCommerce - User name is provided
+2019-03-31 16:50:13,542 [main] INFO eCommerce - password is provided
+2019-03-31 16:50:19,173 [main] INFO eCommerce - providing customer details....
+2019-03-31 16:50:32,716 [main] INFO eCommerce - validation started....
+2019-03-31 16:50:33,392 [main] INFO eCommerce - test case passed....
+2019-03-31 20:08:07,147 [main] DEBUG eCommerce - Debug logging has started 
+2019-03-31 20:08:15,156 [main] INFO eCommerce - User name is provided
+2019-03-31 20:08:15,209 [main] INFO eCommerce - password is provided
+2019-03-31 20:08:18,138 [main] INFO eCommerce - providing customer details....
+2019-03-31 20:09:36,516 [main] DEBUG eCommerce - Debug logging has started 
+2019-03-31 20:09:42,146 [main] INFO eCommerce - User name is provided
+2019-03-31 20:09:42,187 [main] INFO eCommerce - password is provided
+2019-03-31 20:09:46,153 [main] INFO eCommerce - providing customer details....
+2019-03-31 20:10:07,247 [main] INFO eCommerce - validation started....
+2019-03-31 20:10:08,174 [main] INFO eCommerce - test case passed....
+2019-03-31 20:13:32,002 [main] DEBUG eCommerce - Debug logging has started 
+2019-03-31 20:13:46,737 [main] INFO eCommerce - User name is provided
+2019-03-31 20:13:46,791 [main] INFO eCommerce - password is provided
+2019-03-31 20:13:50,899 [main] INFO eCommerce - providing customer details....
+2019-03-31 20:14:17,705 [main] INFO eCommerce - validation started....
+2019-03-31 20:14:18,597 [main] INFO eCommerce - test case passed....
+2019-04-08 15:23:40,884 [main] DEBUG eCommerce - Debug logging has started 
+2019-04-08 15:24:11,757 [main] INFO eCommerce - User name is provided
+2019-04-08 15:24:11,793 [main] INFO eCommerce - password is provided
+2019-04-08 15:24:17,035 [main] INFO eCommerce - providing customer details....
+2019-04-18 14:31:59,580 [main] DEBUG eCommerce - Debug logging has started 
+2019-04-18 14:32:04,856 [main] INFO eCommerce - User name is provided
+2019-04-18 14:32:04,907 [main] INFO eCommerce - password is provided
+2019-04-18 14:32:07,149 [main] INFO eCommerce - providing customer details....
+2019-04-18 14:32:20,088 [main] INFO eCommerce - validation started....
+2019-04-18 14:32:21,234 [main] INFO eCommerce - test case passed....
+2019-07-11 19:40:35,405 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-11 19:40:41,787 [main] INFO eCommerce - User name is provided
+2019-07-11 19:40:41,828 [main] INFO eCommerce - password is provided
+2019-07-11 19:40:45,426 [main] INFO eCommerce - providing customer details....
+2019-07-11 19:41:01,663 [main] INFO eCommerce - validation started....
+2019-07-11 19:41:02,795 [main] INFO eCommerce - test case passed....
+2019-07-11 19:45:36,597 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-11 19:45:41,687 [main] INFO eCommerce - opening base URL
+2019-07-11 19:45:41,787 [main] INFO eCommerce - providing password
+2019-07-11 19:45:41,829 [main] INFO eCommerce - clicking on login
+2019-07-11 19:45:44,606 [main] INFO eCommerce - login success
+2019-07-11 19:45:49,940 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 17:59:07,604 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 17:59:13,443 [main] INFO eCommerce - opening base URL
+2019-07-13 17:59:13,556 [main] INFO eCommerce - providing password
+2019-07-13 17:59:13,604 [main] INFO eCommerce - clicking on login
+2019-07-13 17:59:17,021 [main] INFO eCommerce - login success
+2019-07-13 17:59:22,374 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 18:06:41,973 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 18:06:47,882 [main] INFO eCommerce - opening base URL
+2019-07-13 18:06:48,058 [main] INFO eCommerce - providing password
+2019-07-13 18:06:48,138 [main] INFO eCommerce - clicking on login
+2019-07-13 18:06:50,717 [main] INFO eCommerce - login success
+2019-07-13 18:06:55,906 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 18:13:01,272 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 18:13:06,718 [main] INFO eCommerce - opening base URL
+2019-07-13 18:13:06,898 [main] INFO eCommerce - providing password
+2019-07-13 18:13:06,982 [main] INFO eCommerce - clicking on login
+2019-07-13 18:13:15,138 [main] INFO eCommerce - login success
+2019-07-13 18:13:20,241 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 18:17:09,020 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 18:17:14,063 [main] INFO eCommerce - opening base URL
+2019-07-13 18:17:14,246 [main] INFO eCommerce - providing password
+2019-07-13 18:17:14,326 [main] INFO eCommerce - clicking on login
+2019-07-13 18:17:16,726 [main] INFO eCommerce - login success
+2019-07-13 18:17:21,953 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 18:27:26,621 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 18:27:32,413 [main] INFO eCommerce - opening base URL
+2019-07-13 18:27:32,625 [main] INFO eCommerce - providing password
+2019-07-13 18:27:32,705 [main] INFO eCommerce - clicking on login
+2019-07-13 18:27:42,067 [main] INFO eCommerce - login success
+2019-07-13 18:27:47,286 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 18:34:09,090 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 18:34:49,228 [main] INFO eCommerce - opening base URL
+2019-07-13 18:34:49,451 [main] INFO eCommerce - providing password
+2019-07-13 18:34:49,559 [main] INFO eCommerce - clicking on login
+2019-07-13 18:35:02,130 [main] INFO eCommerce - login success
+2019-07-13 18:35:07,376 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 18:39:52,649 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 18:39:57,969 [main] INFO eCommerce - opening base URL
+2019-07-13 18:39:58,130 [main] INFO eCommerce - providing password
+2019-07-13 18:39:58,222 [main] INFO eCommerce - clicking on login
+2019-07-13 18:40:01,165 [main] INFO eCommerce - login success
+2019-07-13 18:40:06,291 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 18:42:06,298 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 18:42:11,624 [main] INFO eCommerce - opening base URL
+2019-07-13 18:42:11,822 [main] INFO eCommerce - providing password
+2019-07-13 18:42:11,906 [main] INFO eCommerce - clicking on login
+2019-07-13 18:42:14,299 [main] INFO eCommerce - login success
+2019-07-13 18:42:19,528 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 19:06:37,109 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 19:06:42,371 [main] INFO eCommerce - opening base URL
+2019-07-13 19:06:42,584 [main] INFO eCommerce - providing password
+2019-07-13 19:06:42,672 [main] INFO eCommerce - clicking on login
+2019-07-13 19:06:45,384 [main] INFO eCommerce - login success
+2019-07-13 19:06:50,608 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-13 19:08:54,575 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-13 19:09:00,353 [main] INFO eCommerce - opening base URL
+2019-07-13 19:09:00,513 [main] INFO eCommerce - providing password
+2019-07-13 19:09:00,581 [main] INFO eCommerce - clicking on login
+2019-07-13 19:09:02,958 [main] INFO eCommerce - login success
+2019-07-13 19:09:08,118 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 16:33:42,897 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-18 16:33:48,975 [main] INFO eCommerce - opening base URL
+2019-07-18 16:33:49,141 [main] INFO eCommerce - providing password
+2019-07-18 16:33:49,221 [main] INFO eCommerce - clicking on login
+2019-07-18 16:33:52,193 [main] INFO eCommerce - login success
+2019-07-18 16:33:57,488 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 16:34:05,478 [main] INFO eCommerce - Clicking on Product Page
+2019-07-18 16:40:46,325 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-18 16:40:51,701 [main] INFO eCommerce - opening base URL
+2019-07-18 16:40:51,905 [main] INFO eCommerce - providing password
+2019-07-18 16:40:51,994 [main] INFO eCommerce - clicking on login
+2019-07-18 16:40:54,617 [main] INFO eCommerce - login success
+2019-07-18 16:40:59,971 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 16:41:01,160 [main] INFO eCommerce - Clicking on Product Page
+2019-07-18 16:47:06,142 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-18 16:47:11,499 [main] INFO eCommerce - opening base URL
+2019-07-18 16:47:11,672 [main] INFO eCommerce - providing password
+2019-07-18 16:47:11,746 [main] INFO eCommerce - clicking on login
+2019-07-18 16:47:14,793 [main] INFO eCommerce - login success
+2019-07-18 16:47:19,944 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 16:47:20,914 [main] INFO eCommerce - Clicking on Product Page
+2019-07-18 16:47:21,052 [main] INFO eCommerce - Product name entered
+2019-07-18 17:01:43,624 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-18 17:01:48,846 [main] INFO eCommerce - opening base URL
+2019-07-18 17:01:49,020 [main] INFO eCommerce - providing password
+2019-07-18 17:01:49,097 [main] INFO eCommerce - clicking on login
+2019-07-18 17:01:51,518 [main] INFO eCommerce - login success
+2019-07-18 17:01:56,725 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 17:01:57,702 [main] INFO eCommerce - Clicking on Product Page
+2019-07-18 17:01:57,853 [main] INFO eCommerce - Product name entered
+2019-07-18 17:03:12,176 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-18 17:03:17,566 [main] INFO eCommerce - opening base URL
+2019-07-18 17:03:17,746 [main] INFO eCommerce - providing password
+2019-07-18 17:03:17,819 [main] INFO eCommerce - clicking on login
+2019-07-18 17:03:21,154 [main] INFO eCommerce - login success
+2019-07-18 17:03:26,262 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 17:03:27,861 [main] INFO eCommerce - Clicking on Product Page
+2019-07-18 17:03:28,012 [main] INFO eCommerce - Product name entered
+2019-07-18 17:03:28,398 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-18 17:15:51,957 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-18 17:15:57,497 [main] INFO eCommerce - opening base URL
+2019-07-18 17:15:57,674 [main] INFO eCommerce - providing password
+2019-07-18 17:15:57,823 [main] INFO eCommerce - clicking on login
+2019-07-18 17:16:00,342 [main] INFO eCommerce - login success
+2019-07-18 17:16:05,453 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 17:16:06,511 [main] INFO eCommerce - Clicking on Product Page
+2019-07-18 17:16:06,689 [main] INFO eCommerce - Product name entered
+2019-07-18 17:16:07,187 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-18 17:16:07,453 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-18 17:25:46,430 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-18 17:25:51,882 [main] INFO eCommerce - opening base URL
+2019-07-18 17:25:52,060 [main] INFO eCommerce - providing password
+2019-07-18 17:25:52,143 [main] INFO eCommerce - clicking on login
+2019-07-18 17:25:59,052 [main] INFO eCommerce - login success
+2019-07-18 17:26:04,240 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-18 17:26:07,297 [main] INFO eCommerce - Clicking on Product Page
+2019-07-18 17:26:07,448 [main] INFO eCommerce - Product name entered
+2019-07-18 17:26:07,777 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-18 17:26:08,056 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-18 17:26:08,423 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 13:36:00,345 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 13:36:06,461 [main] INFO eCommerce - opening base URL
+2019-07-22 13:36:06,680 [main] INFO eCommerce - providing password
+2019-07-22 13:36:06,790 [main] INFO eCommerce - clicking on login
+2019-07-22 13:36:08,992 [main] INFO eCommerce - login success
+2019-07-22 13:36:14,253 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 13:36:15,471 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 13:36:15,597 [main] INFO eCommerce - Product name entered
+2019-07-22 13:36:16,074 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 13:36:16,266 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 13:36:16,449 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 13:38:50,804 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 13:38:55,921 [main] INFO eCommerce - opening base URL
+2019-07-22 13:38:56,082 [main] INFO eCommerce - providing password
+2019-07-22 13:38:56,150 [main] INFO eCommerce - clicking on login
+2019-07-22 13:38:58,623 [main] INFO eCommerce - login success
+2019-07-22 13:39:03,720 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 13:39:04,677 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 13:39:04,813 [main] INFO eCommerce - Product name entered
+2019-07-22 13:39:05,053 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 13:39:05,437 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 13:39:05,667 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 18:41:16,518 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 18:41:54,473 [main] INFO eCommerce - opening base URL
+2019-07-22 18:41:54,646 [main] INFO eCommerce - providing password
+2019-07-22 18:41:54,731 [main] INFO eCommerce - clicking on login
+2019-07-22 18:42:07,010 [main] INFO eCommerce - login success
+2019-07-22 18:42:12,230 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 18:42:15,434 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 18:42:15,628 [main] INFO eCommerce - Product name entered
+2019-07-22 18:42:15,961 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 18:42:16,291 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 18:42:16,543 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 18:42:16,579 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-22 18:57:34,519 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 18:57:40,560 [main] INFO eCommerce - opening base URL
+2019-07-22 18:57:40,740 [main] INFO eCommerce - providing password
+2019-07-22 18:57:40,849 [main] INFO eCommerce - clicking on login
+2019-07-22 18:57:43,592 [main] INFO eCommerce - login success
+2019-07-22 18:57:48,759 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 18:57:50,139 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 18:57:50,311 [main] INFO eCommerce - Product name entered
+2019-07-22 18:57:50,674 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 18:57:51,111 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 18:57:51,361 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 18:57:51,926 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-22 19:02:14,643 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 19:02:19,832 [main] INFO eCommerce - opening base URL
+2019-07-22 19:02:20,053 [main] INFO eCommerce - providing password
+2019-07-22 19:02:20,133 [main] INFO eCommerce - clicking on login
+2019-07-22 19:02:22,512 [main] INFO eCommerce - login success
+2019-07-22 19:02:27,709 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 19:02:28,747 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 19:02:28,891 [main] INFO eCommerce - Product name entered
+2019-07-22 19:02:29,213 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 19:02:29,620 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 19:02:29,830 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 19:02:30,582 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-22 19:05:14,366 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 19:05:19,630 [main] INFO eCommerce - opening base URL
+2019-07-22 19:05:19,838 [main] INFO eCommerce - providing password
+2019-07-22 19:05:19,920 [main] INFO eCommerce - clicking on login
+2019-07-22 19:05:22,303 [main] INFO eCommerce - login success
+2019-07-22 19:05:27,505 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 19:05:28,785 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 19:05:28,901 [main] INFO eCommerce - Product name entered
+2019-07-22 19:05:29,339 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 19:05:29,510 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 19:05:29,723 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 19:05:30,334 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-22 19:10:18,582 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 19:10:23,839 [main] INFO eCommerce - opening base URL
+2019-07-22 19:10:24,029 [main] INFO eCommerce - providing password
+2019-07-22 19:10:24,108 [main] INFO eCommerce - clicking on login
+2019-07-22 19:10:26,483 [main] INFO eCommerce - login success
+2019-07-22 19:10:31,763 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 19:10:32,804 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 19:10:32,968 [main] INFO eCommerce - Product name entered
+2019-07-22 19:10:33,336 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 19:10:33,513 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 19:10:33,725 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 19:10:37,591 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-22 19:12:09,482 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 19:12:14,425 [main] INFO eCommerce - opening base URL
+2019-07-22 19:12:14,604 [main] INFO eCommerce - providing password
+2019-07-22 19:12:14,690 [main] INFO eCommerce - clicking on login
+2019-07-22 19:12:17,179 [main] INFO eCommerce - login success
+2019-07-22 19:12:22,460 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 19:12:23,554 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 19:12:23,686 [main] INFO eCommerce - Product name entered
+2019-07-22 19:12:24,083 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 19:12:24,279 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 19:12:24,521 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 19:12:25,097 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-22 19:14:33,690 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 19:14:38,790 [main] INFO eCommerce - opening base URL
+2019-07-22 19:14:38,978 [main] INFO eCommerce - providing password
+2019-07-22 19:14:39,059 [main] INFO eCommerce - clicking on login
+2019-07-22 19:14:41,120 [main] INFO eCommerce - login success
+2019-07-22 19:14:46,384 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 19:14:47,495 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 19:14:47,683 [main] INFO eCommerce - Product name entered
+2019-07-22 19:14:48,062 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 19:14:48,266 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 19:14:48,478 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 19:14:48,565 [main] INFO eCommerce - Clicking on the radio button
+2019-07-22 19:14:49,288 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-22 21:41:27,123 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-22 21:41:33,164 [main] INFO eCommerce - opening base URL
+2019-07-22 21:41:33,338 [main] INFO eCommerce - providing password
+2019-07-22 21:41:33,406 [main] INFO eCommerce - clicking on login
+2019-07-22 21:41:36,107 [main] INFO eCommerce - login success
+2019-07-22 21:41:41,318 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-22 21:41:42,551 [main] INFO eCommerce - Clicking on Product Page
+2019-07-22 21:41:42,725 [main] INFO eCommerce - Product name entered
+2019-07-22 21:41:43,121 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-22 21:41:43,330 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-22 21:41:43,543 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-22 21:41:43,625 [main] INFO eCommerce - Clicking on the radio button
+2019-07-22 21:41:44,200 [main] INFO eCommerce - Checking table value is Enabled or not
+2019-07-23 18:46:06,002 [main] DEBUG eCommerce - Debug logging has started 
+2019-07-23 18:46:40,641 [main] INFO eCommerce - opening base URL
+2019-07-23 18:46:40,814 [main] INFO eCommerce - providing password
+2019-07-23 18:46:40,892 [main] INFO eCommerce - clicking on login
+2019-07-23 18:46:51,563 [main] INFO eCommerce - login success
+2019-07-23 18:46:56,722 [main] INFO eCommerce - Clicking on Catalogue
+2019-07-23 18:46:59,469 [main] INFO eCommerce - Clicking on Product Page
+2019-07-23 18:46:59,585 [main] INFO eCommerce - Product name entered
+2019-07-23 18:46:59,944 [main] INFO eCommerce - Clicking on drop down and selecting value from dropdown
+2019-07-23 18:47:00,115 [main] INFO eCommerce - Clicking on drop down warehouse and selecting value from dropdown
+2019-07-23 18:47:00,315 [main] INFO eCommerce - Clicking on drop down manufacturing and selecting value from drop down
+2019-07-23 18:47:00,800 [main] INFO eCommerce - Clicking on the radio button
+2019-07-23 18:47:01,379 [main] INFO eCommerce - Checking table value is Enabled or not
